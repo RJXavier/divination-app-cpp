@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1532420126 source:c:\users\student\desktop\astrologia\main.cpp
+	<iostream>
+	<cstdio>
+
+1535132009 source:c:\users\raj xavier\desktop\astrologia\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1535132009 source:g:\astrologia\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
